@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLauncher</string>
+
+    <string name="start">已是第一个了</string>
+    <string name="end">最后一个了</string>
+
+    <string name="install">安装成功</string>
+    <string name="uninstall">卸载成功</string>
+    <string name="hint">提示</string>
+    <string name="shutdown_hint">是否确定关机？</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Player</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="play_error">播放错误</string>
+</resources>
